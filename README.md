@@ -4,6 +4,12 @@ Welcome to my curated collection of Python practice notebooks! This repository s
 
 ---
 
+## 🧠 Purpose
+
+These are my **practice codes** built to understand and solidify core concepts before moving into advanced machine learning and AI projects. I’ve included real-world examples, coding exercises, and visualizations wherever possible.
+
+---
+
 ## 📁 Folder Structure
 
 ### ✅ PYTHON
@@ -61,12 +67,5 @@ Welcome to my curated collection of Python practice notebooks! This repository s
 - Hyperparameter optimization using Optuna
 - Modular model training and evaluation pipelines
 - Real-world classification projects
-
----
-
-
-## 🧠 Purpose
-
-These are my **practice codes** built to understand and solidify core concepts before moving into advanced machine learning and AI projects. I’ve included real-world examples, coding exercises, and visualizations wherever possible.
 
 ---
