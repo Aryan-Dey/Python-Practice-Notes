@@ -31,7 +31,39 @@ Welcome to my curated collection of Python practice notebooks! This repository s
 - Line plots, bar charts, histograms, scatter plots, subplots
 - Customizations, color maps, and labels for storytelling
 
+### 📁 PyTorch Deep Learning Projects & Practice
+
+
+  | 📄 Notebook | 📝 Description |
+|------------|----------------|
+| `ANN` | Basic Artificial Neural Network built using `nn.Sequential` |
+| `ANN_OptunaTuning` | Tuning ANN hyperparameters with Optuna for better performance |
+| `AutoGrad` | Demonstration of PyTorch's `autograd` module for automatic differentiation |
+| `CNN` | Implementation of Convolutional Neural Networks for image classification |
+| `CNN_OptunaTuning` | Hyperparameter tuning for CNNs using Optuna |
+| `Dataset&DataLoader` | Custom dataset class and usage of PyTorch’s `DataLoader` for batch processing |
+| `Next_Word_Predictor` | Simple NLP model to predict the next word in a sequence using RNNs |
+| `NN_Module` | Neural Network defined using a custom class with `nn.Module` and forward pass |
+| `Optuna_Basics` | Learning the basics of Optuna for model and parameter optimization |
+| `Question_Answering_System` | A basic Question-Answering system using NLP embedding techniques |
+| `Rice_Classification` | Image classification project for different rice varieties |
+| `Training_Pipeline` | End-to-end training loop with metrics logging and model saving |
+| `Transfer_Learning` | Applying pretrained CNN models (like ResNet) to a custom dataset |
+
 ---
+
+#### 🚀 Skills Practiced
+
+- PyTorch fundamentals (`autograd`, `nn.Module`, `optim`, `DataLoader`)
+- Convolutional Neural Networks (CNNs)
+- Natural Language Processing with RNNs
+- Transfer learning with pretrained models
+- Hyperparameter optimization using Optuna
+- Modular model training and evaluation pipelines
+- Real-world classification projects
+
+---
+
 
 ## 🧠 Purpose
 
